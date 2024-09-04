@@ -1,14 +1,30 @@
-# no need to declare the data types in the python 
+# print("ayush gautam")
+# print("0-----------")
+# print("ayush"*10)
 
-# dynamic binding
+# price = 10
+# print(price)
+# price =20
 
-a =5
-print(a)
-a ="nitesh"
-print(a)
+# print(price)
+# rating = 4.9
+# name = "ayush gautam"
+# is_active = True
 
-a,b,c =1,2,3
-print(a,b,c)
 
-# keywords and identifiers
+# print(f"Name: {name}, Rating: {rating}, Is Active: {is_active}")
+
+# name = "john smith"
+# age = 13
+# is_new = True
+
+ 
+# name = input("what is your name")
+# print("hi"+name)
+
+
+
+# age = int(input("Enter your age"))
+
+# print("your age is : " ,age)
 
